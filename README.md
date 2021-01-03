@@ -10,11 +10,11 @@ Results
 
 VGG19 after running for 50 epochs the training error gradually decreases and the training accuracy finally approaches the validation accuracy. In the start after running 20 epochs the test accuracy was lower than the validation accuracy since the model was overfitting. But after the introduction of dropout layers right after the dense layers and training the model for a longer time (50 epocs) the model started to generalise itself and all the accuracies finally meet each other. Below is the graph of the loss and accuracy of the model during above mentioned epochs. The final accuracy of the test set is 88.07 %.
 
-![Image 1](https://drive.google.com/file/d/1yIrnEljaIE6TmbiPuOf9Ec4N1LLI9Te-/view?usp=sharing?raw=true)
+![Image 1](https://drive.google.com/uc?export=view&id=1yIrnEljaIE6TmbiPuOf9Ec4N1LLI9Te-)
 
 Inference on images (Correctly identified results)
 
-![Image 1](https://drive.google.com/file/d/1sxcbO16MDRSxqrdGcdMNtJyv2Ys59S3D/view?usp=sharing?raw=true)
+![Image 1](https://drive.google.com/uc?export=view&id=1sxcbO16MDRSxqrdGcdMNtJyv2Ys59S3D)
 
 Conclusion
 
