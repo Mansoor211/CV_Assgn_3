@@ -12,21 +12,9 @@ VGG19 after running for 50 epochs the training error gradually decreases and the
 
 ![Image 1](https://github.com/Mansoor211/CV_Assgn_3/blob/master/images/confussion.png?raw=true "Title")
 
-Confusion matrix (Heat map)
-
 Inference on images (Correctly identified results)
 
-
-
-
-
-
-
-Inference on images (Incorrectly identified results)
-
-
-
-
+![Image 1](https://github.com/Mansoor211/CV_Assgn_3/blob/master/images/results.png?raw=true "Title")
 
 Conclusion
 
