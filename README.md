@@ -10,15 +10,12 @@ Results
 
 VGG19 after running for 50 epochs the training error gradually decreases and the training accuracy finally approaches the validation accuracy. In the start after running 20 epochs the test accuracy was lower than the validation accuracy since the model was overfitting. But after the introduction of dropout layers right after the dense layers and training the model for a longer time (50 epocs) the model started to generalise itself and all the accuracies finally meet each other. Below is the graph of the loss and accuracy of the model during above mentioned epochs. The final accuracy of the test set is 88.07 %.
 
-![Image 1](https://github.com/Mansoor211/CV_Assgn_3/blob/master/images/confussion.png?raw=true "Title")
+![Image 1](/images/confussion.png?raw=true "Title")
 
 Inference on images (Correctly identified results)
 
-![Image 1](https://github.com/Mansoor211/CV_Assgn_3/blob/master/images/results.png?raw=true "Title")
+![Image 1](./images/results.png?raw=true "Title")
 
 Conclusion
 
 This implementation/ demonstration of VGG19 on natural scene images dataset is a great learning and experience for me as I have practically implemented not only the follow of model but also used transfer learning which helps me to see the concept in detail. Moreover the concept of using data augmentation when the dataset is small to train the model through transfer learning is indeed a great way to learn things. I believe that practical implementation is the best way to understand things. 
-
-
-https://drive.google.com/file/d/1-3p2K83qj9UbqvcLty3XZTx10rmsJKPR/view?usp=sharing
